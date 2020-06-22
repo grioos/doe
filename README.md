@@ -1,8 +1,5 @@
 <h1 align="center">
-  <img src="/github/logo.png" width="250px" /><br>
-  <h2 font-size="14px">
-    Toda doação é importante!
-  </h2>
+  <img src="/github/logo.png"/>
 </h1>
 
 <h1>

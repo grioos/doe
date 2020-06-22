@@ -1,6 +1,8 @@
 <h1 align="center">
   <img src="public/logo.png" width="250px" /><br>
-  Toda doação é importante!
+  <h2>
+    Toda doação é importante!
+  </h2>
 </h1>
 
 <h1>
@@ -8,12 +10,12 @@
     <img src="/github/home-create.png">
 </h1>
 
-📌Projeto
+## 📌Projeto
 
 DOE é um projeto que visa ser um banco de dados para doadores de sangue. Ele foi desenvolvido durante a [MaratonaDev](https://rocketseat.com.br/maratonadev/inscricao/3.0)
 
-🚀 Tecnologias usadas
-O projeto foi desenvolvido com as seguintes tecnologias:
+## 🚀 Tecnologias usadas
+
 - [CSS](https://www.w3schools.com/css/)
 - [Express](https://expressjs.com/pt-br/)
 - [HTML](https://www.w3schools.com/html/)
@@ -21,8 +23,8 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
 - [PostgreSQL](https://www.postgresql.org/)
 
-💻 Começando:
-------------------
+## 💻 Começando:
+
 1. Clone este repositório usando: `https://github.com/grioos/doe`
 2. Vá para o diretório apropriado: `cd doe`
 3. Para instalar todas as dependências, no terminal digite: `npm install`
